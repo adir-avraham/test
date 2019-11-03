@@ -139,7 +139,7 @@ body {
   color: #444;
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
-  text-align: left;
+  text-align: right;
   overflow-x: hidden;
   line-height: 22px;
 }
@@ -727,7 +727,7 @@ div#preloader {
 ----------------------------------------*/
 
 .wellcome-area {
-  background: rgba(248, 248, 248, 0.8) url("../img/slider/test2.jpg");
+  background: rgba(248, 248, 248, 0.8) url("../img/background/bg1.jpg");
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
@@ -1247,7 +1247,7 @@ div#preloader {
   color: #666;
   padding: 12px 15px;
   position: relative;
-  text-align: left;
+  text-align: center;
 }
 
 .pri_table_list li.check.cross::after {
